@@ -40,6 +40,12 @@ Improved visibility into API reliability, automated repetitive reporting workflo
 * Performance metrics not integrated with BI tools
 * No centralized report for leadership visibility
 * Delayed performance reviews affecting proactive optimization
+  
+![Screenshot_14-10-2025_22929_chat deepseek com](https://github.com/user-attachments/assets/310b02f6-50b5-4c8f-9f9c-570df59470aa)
+
+
+![Screenshot_14-10-2025_23017_chat deepseek com](https://github.com/user-attachments/assets/93a8c584-cefe-48be-88ee-d8836ee7cd4c)
+
 
 ---
 
