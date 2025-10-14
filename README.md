@@ -138,18 +138,13 @@ Improved visibility into API reliability, automated repetitive reporting workflo
 
 ### **🟡 Medium-term Initiatives (3–6 Months)**
 
-**1. Integrate BI & Dashboards**
-
-* Connect SLA dataset to **Power BI** or **Looker** for interactive visualizations.
-* Display uptime trends, latency distributions, and error breakdowns.
-
-**2. API Optimization**
+**1. API Optimization**
 
 * Enable **load balancing** for high-traffic endpoints.
 * Introduce caching for frequently accessed data.
 * Optimize SQL queries and connection pooling.
 
-**3. Trend Tracking & Benchmarking**
+**2. Trend Tracking & Benchmarking**
 
 * Add historical comparison logic (week-over-week SLA trend).
 * Create alert severity levels based on deviation magnitude.
@@ -208,39 +203,4 @@ Improved visibility into API reliability, automated repetitive reporting workflo
 * 50% improvement in incident detection speed
 * Enhanced SLA transparency across teams
 
----
 
-## 🎯 **Key Takeaways for Portfolio**
-
-### **Technical Leadership**
-
-* Designed and implemented a **data-driven SLA automation system**.
-* Introduced alerting and threshold logic aligned with enterprise-grade reliability standards.
-* Demonstrated ability to translate metrics into actionable operational improvements.
-
-### **Business Impact**
-
-* Quantified the effect of downtime and latency on merchant experience.
-* Linked technical KPIs to revenue retention and customer satisfaction.
-* Supported leadership visibility with consistent reporting cadence.
-
-### **Strategic Thinking**
-
-* Created a framework for continuous monitoring and change management.
-* Prioritized improvements based on SLA impact and cost efficiency.
-* Proposed scalable, automated solutions ready for production deployment.
-
----
-
-## 🔮 **Future Roadmap**
-
-### **Phase 2 (Next 6 Months)**
-
-* Integrate with Power BI dashboards for real-time SLA visualization.
-* Automate report scheduling via cron jobs or orchestration tools (Airflow).
-
-### **Phase 3 (6–12 Months)**
-
-* Implement ML-based anomaly detection for proactive SLA management.
-* Develop merchant-facing reliability dashboards.
-* Adopt multi-region deployment strategy to enhance uptime resiliency.
